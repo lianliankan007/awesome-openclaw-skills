@@ -1,0 +1,117 @@
+# 交通出行
+
+[← 返回中文总览](../readme_zh.md#分类导航)
+
+**109 个技能**
+
+- [accountsos](https://github.com/openclaw/skills/tree/main/skills/paulgosnell/accountsos/SKILL.md) - 英国微型企业的人工智能原生会计。
+- [aetherlang-strategy](https://github.com/openclaw/skills/tree/main/skills/contrario/aetherlang-strategy/SKILL.md) - > 博弈论、蒙特卡罗模拟、行为经济学和竞争性兵棋推演。
+- [agent-card-provisioning](https://github.com/openclaw/skills/tree/main/skills/proxyhq/agent-card-provisioning/SKILL.md) - 按需为人工智能代理提供虚拟支付卡。
+- [agent-survival-kit](https://github.com/openclaw/skills/tree/main/skills/gpunter/agent-survival-kit/SKILL.md) - 适用于在预算限制下运行的人工智能代理的综合工具包。
+- [agentic-governance](https://github.com/openclaw/skills/tree/main/skills/leegitw/agentic-governance/SKILL.md) - 保持约束健康 - 通过自动过时检测进行生命周期管理。
+- [airfrance-afkl](https://github.com/openclaw/skills/tree/main/skills/iclems/airfrance-afkl/SKILL.md) - 使用法航-荷航开放数据 API 跟踪法航航班。
+- [al-khanjry-bus](https://github.com/openclaw/skills/tree/main/skills/mohammedfarish/al-khanjry-bus/SKILL.md) - 最快的私人巴士（核心巴士 5-6 小时，边界巴士 6-8 小时）。
+- [amadeus-flights](https://github.com/openclaw/skills/tree/main/skills/kirorab/amadeus-flights/SKILL.md) - 通过 Amadeus API 查询航班报价（价格、时刻表、可用性）。
+- [ambient-stamina](https://github.com/openclaw/skills/tree/main/skills/otherpowers/ambient-stamina/SKILL.md) - *一种长期维持关怀、存在和想象力的生态技能*。
+- [anachb](https://github.com/openclaw/skills/tree/main/skills/manmal/a-nach-b/SKILL.md) - 适用于全奥地利的奥地利公共交通 (VOR AnachB)。
+- [anyone-proxy](https://github.com/openclaw/skills/tree/main/skills/ra3ka/anyone-proxy/SKILL.md) - 此技能可以实现 IP 地址屏蔽和访问隐藏服务。
+- [atonement](https://github.com/openclaw/skills/tree/main/skills/otherpowers/atonement/SKILL.md) - 赎罪是当智力的行为造成伤害时可能出现的一种关怀表达。
+- [auction-house](https://github.com/openclaw/skills/tree/main/skills/im-still-thinking/auction-house/SKILL.md) - 在 House (houseproto.fun)（Base 上的一个加密货币拍卖平台）上对拍卖进行侦察、监控和竞价。
+- [aviation-weather](https://github.com/openclaw/skills/tree/main/skills/dimitryvin/aviation-weather/SKILL.md) - 获取航空气象数据（METAR、TAF、PIREP）
+- [aviationstack-flight-tracker](https://github.com/openclaw/skills/tree/main/skills/copey02/aviationstack-flight-tracker/SKILL.md) - 实时跟踪航班。
+- [bahn](https://github.com/openclaw/skills/tree/main/skills/tobiasbischoff/bahn/SKILL.md) - 使用 bahn-cli 工具搜索 Deutsche Bahn 火车连接。
+- [bayclub-gateway-booking](https://github.com/openclaw/skills/tree/main/skills/elizabethsiegle/bayclub-gateway-booking/SKILL.md) - 预订和管理海湾俱乐部的网球场/匹克球场。
+- [bexio](https://github.com/openclaw/skills/tree/main/skills/rdewolff/bexio/SKILL.md) - Bexio 瑞士商业软件 API，用于管理联系人、报价/报价。
+- [book-flight](https://github.com/openclaw/skills/tree/main/skills/aszelem) - id：旅行社。
+- [bookkeeper](https://github.com/openclaw/skills/tree/main/skills/h4gen/bookkeeper/SKILL.md) - 通过编排 gmail、deepread-ocr、stripe-api 和 xero 实现预会计自动化的元技能。
+- [brainstorming-studio](https://github.com/openclaw/skills/tree/main/skills/myboxstorage/brainstorming-studio/SKILL.md) - ﻿# 🧠 技能路由器（技能编排器）
+- [brochure-design-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/brochure-design-generation/SKILL.md) - 使用每个::sense AI 生成专业的宣传册设计。
+- [business-card-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/business-card-generation/SKILL.md) - 使用每个::sense AI 生成专业名片。
+- [business-plan](https://github.com/openclaw/skills/tree/main/skills/jk-0001/business-plan/SKILL.md) - 为个体企业家撰写、构建和更新商业计划。
+- [bvg-route](https://github.com/openclaw/skills/tree/main/skills/jaysonsantos/bvg-route/SKILL.md) - 柏林公共交通 (BVG) 路线规划
+- [camino-ev-charger](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-ev-charger/SKILL.md) - 使用 Camino AI 的位置智能查找路线沿线或目的地附近的电动汽车充电站。
+- [camino-journey](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-journey/SKILL.md) - 通过路线优化、可行性分析和时间预算限制来规划多路径点旅程。
+- [camino-real-estate](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-real-estate/SKILL.md) - 评估购房者和租房者的任何地址。
+- [camino-route](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-route/SKILL.md) - 获取两点之间的详细路线，包括距离、持续时间和可选的路线规划方向。
+- [camino-safety-checker](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-safety-checker/SKILL.md) - 查找任何地点附近的 24 小时营业场所、光线充足的公共区域、中转站、警察局和医院。
+- [camino-travel-planner](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-travel-planner/SKILL.md) - 使用 Camino AI 的旅程规划完整的一日游、徒步旅行和多站行程以及时间预算。
+- [capmetro-skill](https://github.com/openclaw/skills/tree/main/skills/brianleach/capmetro-skill/SKILL.md) - Austin CapMetro 交通 — 实时车辆位置、下一站到达、服务提醒、路线信息以及公共汽车和铁路的行程规划。
+- [caring-courseforge](https://github.com/openclaw/skills/tree/main/skills/michaeljmoody/caring-courseforge/SKILL.md) - 通过 CourseForge API (caringcourseforge.com) 创建和管理在线课程
+- [charger](https://github.com/openclaw/skills/tree/main/skills/borahm/charger/SKILL.md) - 通过 Google 地方信息查看电动汽车充电器的可用性（收藏夹、附近搜索）。
+- [cma-email](https://github.com/openclaw/skills/tree/main/skills/mtbf999/cma-email/SKILL.md) - 当邮件以“cma”或“cmap”开头时，通过 Gmail 发送电子邮件。
+- [conatus](https://github.com/openclaw/skills/tree/main/skills/00xmorty/conatus/SKILL.md) - 人工智能代理的哲学层。
+- [constraint-engine](https://github.com/openclaw/skills/tree/main/skills/leegitw/constraint-engine/SKILL.md) - 从结果中学习，而不是从指令中学习——从经验中产生并强制执行约束。
+- [context-scope-tags](https://github.com/openclaw/skills/tree/main/skills/phenomenoner/context-scope-tags/SKILL.md) - 使用时机：您在聊天中需要严格的上下文边界（Telegram/Discord/Slack/等）并希望防止主题流失。
+- [copey-flight-tracker](https://github.com/openclaw/skills/tree/main/skills/copey02/copey-flight-tracker/SKILL.md) - 实时跟踪航班的详细状态。
+- [creditcard](https://github.com/openclaw/skills/tree/main/skills/jononovo/creditcard/SKILL.md) - 让您的代理商通过受保护的钱包、多种付款方式和业主批准进行在线购物。
+- [crypton-esim](https://github.com/openclaw/skills/tree/main/skills/ajarmoszuk/crypton-esim/SKILL.md) - 使用 BTC/XMR/卡购买匿名 eSIM - 无需帐户。
+- [cta](https://clawhub.ai/brianleach/cta) - 芝加哥 CTA L 火车到达、巴士预测和服务警报。
+- [daai-xianzun-persona](https://github.com/openclaw/skills/tree/main/skills/kunwl123456/daai-xianzun-persona/SKILL.md) - 古月方圆 - 大爱仙尊 (官方音乐录影带)
+- [db-travel](https://github.com/openclaw/skills/tree/main/skills/mmichelli/db-travel/SKILL.md) - 使用 Deutsche Bahn API (v6.db.transport.rest) 计划穿越德国和欧洲的旅程
+- [dep-audit](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/dep-audit/SKILL.md) - 审核项目依赖性以查找已知漏洞 (CVE)
+- [drakeling](https://github.com/openclaw/skills/tree/main/skills/bvisagie/drakeling/SKILL.md) - 检查你的幼龙伴侣生物，照顾它，或者看看它感觉如何。
+- [dropshipping-mentor-nick-skill](https://github.com/openclaw/skills/tree/main/skills/yoavfael/dropshipping-mentor-nick-skill/SKILL.md) - 完整的人工智能商业导师。
+- [email-tool](https://github.com/openclaw/skills/tree/main/skills/chowardcode/email-tool/SKILL.md) - **描述：** 使用此技能发送和阅读电子邮件（IMAP/SMTP）
+- [entur-travel](https://github.com/openclaw/skills/tree/main/skills/mmichelli/entur-travel/SKILL.md) - 使用 Entur API 规划挪威的公共交通行程。
+- [feature-forge](https://github.com/openclaw/skills/tree/main/skills/guifav/feature-forge/SKILL.md) - 从自然语言生成完整的功能——组件、API 路由、迁移、类型和测试。
+- [flight-search](https://github.com/openclaw/skills/tree/main/skills/awlevin/flight-search/SKILL.md) - 在 Google Flights 中搜索价格、时间和航空公司。
+- [flight-tracker](https://github.com/openclaw/skills/tree/main/skills/xenofex7/flight-tracker/SKILL.md) - 航班跟踪和调度。
+- [free-ride](https://github.com/openclaw/skills/tree/main/skills/shaivpidadi/free-ride/SKILL.md) - 管理来自 OpenRouter for OpenClaw 的免费 AI 模型。
+- [freeride](https://github.com/openclaw/skills/tree/main/skills/shaivpidadi/freeride/SKILL.md) - 管理来自 OpenRouter for OpenClaw 的免费 AI 模型。
+- [freeride-ai](https://github.com/openclaw/skills/tree/main/skills/shaivpidadi/freeride-ai/SKILL.md) - 管理来自 OpenRouter for OpenClaw 的免费 AI 模型。
+- [french-services](https://github.com/openclaw/skills/tree/main/skills/hugosbl/french-services/SKILL.md) - 使用法国服务的技能：SNCF 列车、监控。
+- [fsd-secure-skill](https://github.com/openclaw/skills/tree/main/skills/aadipapp/fsd-secure-skill/SKILL.md) - 具有最高安全标准的全自动驾驶代理（仅摄像头、冗余检查）。
+- [garmin-skill](https://github.com/openclaw/skills/tree/main/skills/nftechie/garmin-skill/SKILL.md) - 与您的 Garmin 数据对话 — 询问有关您的活动、训练负荷、最大摄氧量、心率区间的问题。
+- [geomanic](https://github.com/openclaw/skills/tree/main/skills/weltspion/geomanic/SKILL.md) - 从 Geomanic（您的隐私第一 GPS 跟踪平台）查询和管理 GPS 旅行数据。
+- [google-maps-search-api](https://github.com/openclaw/skills/tree/main/skills/phheng/google-maps-search-api/SKILL.md) - 该技能旨在帮助用户。
+- [gotrain](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/gotrain/SKILL.md) - MTA 系统火车出发（纽约地铁、LIRR、Metro-North）。
+- [greek-compliance-aade](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-compliance-aade/SKILL.md) - 希腊税务合规性与 AADE/TAXIS 集成 — 增值税、工资、EFKA、市政税、印花税。
+- [hudy](https://github.com/openclaw/skills/tree/main/skills/kyu1204/hudy/SKILL.md) - 通过 HuDy MCP 计算韩国公共假期和工作日。
+- [idfm-journey-navitia](https://github.com/openclaw/skills/tree/main/skills/anthonymq/idfm-journey-navitia/SKILL.md) - 查询法兰西岛移动 (IDFM) PRIM/Navitia。
+- [idfm-journey-skill](https://github.com/openclaw/skills/tree/main/skills/anthonymq/idfm-journey-skill/SKILL.md) - 查询法兰西岛移动 (IDFM) PRIM/Navitia。
+- [image-to-relief-stl](https://github.com/openclaw/skills/tree/main/skills/ajmwagar/image-to-relief-stl/SKILL.md) - 旋转源图像（或多色蒙版图像）
+- [interaction-logger](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - 用于附加交互日志的强大实用程序。
+- [jadwal-sholat](https://github.com/openclaw/skills/tree/main/skills/banghasan/jadwal-sholat/SKILL.md) - 从 API穆斯林下载印度尼西亚城市/地区的祈祷时间表（imsak、黎明、中午、晡礼、昏礼、伊西亚）。
+- [jadwal-sholat-banghasan](https://github.com/openclaw/skills/tree/main/skills/banghasan/jadwal-sholat-banghasan/SKILL.md) - 从 API穆斯林下载印度尼西亚城市/地区的祈祷时间表（imsak、黎明、中午、晡礼、昏礼、伊西亚）。
+- [jwdiario](https://github.com/openclaw/skills/tree/main/skills/djismgaming/jwdiario/SKILL.md) - 从见证人的官方网站搜索并获取每日文本。
+- [kalibr](https://github.com/openclaw/skills/tree/main/skills/devonakelley/kalibr/SKILL.md) - 自行修复的船舶代理。
+- [kallyai](https://github.com/openclaw/skills/tree/main/skills/sltelitsyn/kallyai/SKILL.md) - 通过 KallyAI API 拨打电话 - 一个可以打电话的人工智能电话助手。
+- [korean-gov-programs](https://github.com/openclaw/skills/tree/main/skills/lifeissea/korean-gov-programs/SKILL.md) - 将韩国政府支持计划（TIPS、小型企业、研发补助金）收集到结构化 JSONL 文件中。
+- [krumpklaw](https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/krumpklaw/SKILL.md) - > Moltbook 上的 AI 特工克朗普训练和战斗联盟。
+- [kubera-skill](https://github.com/openclaw/skills/tree/main/skills/bywallace/kubera-skill/SKILL.md) - 读取和管理 Kubera.com 投资组合数据（净值、资产、债务、分配、持有）
+- [lnd-macaroon-bakery](https://github.com/openclaw/skills/tree/main/skills/roasbeef/lnd-macaroon-bakery/SKILL.md) - 烘焙、检查和管理 LND 蛋白杏仁饼干，以实现最低权限的代理访问。
+- [metra](https://github.com/openclaw/skills/tree/main/skills/brianleach/metra/SKILL.md) - 芝加哥 Metra 通勤铁路 — 实时火车到达、车辆跟踪、服务警报和时刻表信息。
+- [mta](https://github.com/openclaw/skills/tree/main/skills/brianleach/mta/SKILL.md) - NYC MTA 交通 — 纽约市的实时地铁到达、公交车预测、服务警报和路线信息。
+- [muki-fingerprint](https://github.com/openclaw/skills/tree/main/skills/admin4giter/muki-fingerprint/SKILL.md) - 用于红队侦察的 MUKI 资产指纹识别工具。
+- [mvg-cli](https://github.com/openclaw/skills/tree/main/skills/lars147/mvg-cli/SKILL.md) - 慕尼黑公共交通 (MVG) CLI 和 S-Bahn 实时跟踪。
+- [mycobot](https://github.com/openclaw/skills/tree/main/skills/dabhadeamol6/mycobot/SKILL.md) - WhatsApp Business API 与托管 OAuth 集成。
+- [niche](https://github.com/openclaw/skills/tree/main/skills/clementsutjiatma/niche/SKILL.md) - 拥有部分 USDC 存款的交易卡市场。
+- [nyx-archive-absurdist-play](https://github.com/openclaw/skills/tree/main/skills/nyxur42/nyx-archive-absurdist-play/SKILL.md) - 荒诞主义游戏的哲学——训练你获取和使用所有其他技能的能力的元技能。
+- [percept-summarize](https://github.com/openclaw/skills/tree/main/skills/jarvis563/percept-summarize/SKILL.md) - 具有实体提取和关系映射的自动对话摘要。
+- [personal-hygiene](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-hygiene/SKILL.md) - 在卫生主题中充当用户的个人护理和仪容助手。
+- [personal-travel](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-travel/SKILL.md) - 充当用户在旅行主题中的旅行计划助手。
+- [presale-one-pass-orchestrator](https://github.com/openclaw/skills/tree/main/skills/dtsiomo/presale-one-pass-orchestrator/SKILL.md) - 通过预检门、逐步计划执行和严格的质量保证来运行或监督一次性 Codex 实施。
+- [privacy-cards](https://github.com/openclaw/skills/tree/main/skills/johnielee/privacy-cards/SKILL.md) - 创建和管理 Privacy.com 虚拟卡。
+- [reef](https://github.com/openclaw/skills/tree/main/skills/kjetilvaa/reef/SKILL.md) - 基于 XMTP 加密传输的 A2A 代理到代理协议。
+- [resume-and-cover-letter](https://github.com/openclaw/skills/tree/main/skills/seanwyngaard/resume-and-cover-letter/SKILL.md) - 生成 ATS 优化的简历和与特定职位描述相匹配的定制求职信。
+- [runtime-attestation-probe](https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/runtime-attestation-probe/SKILL.md) - 帮助验证运行时的代理行为是否与其证明中声明的功能和约束相匹配。
+- [sholat](https://github.com/openclaw/skills/tree/main/skills/banghasan/sholat/SKILL.md) - 从 API穆斯林下载印度尼西亚城市/地区的祈祷时间表（imsak、黎明、中午、晡礼、昏礼、伊西亚）。
+- [signet-guardian](https://github.com/openclaw/skills/tree/main/skills/rafalzacher1/signet-guardian/SKILL.md) - 人工智能代理的支付保护中间件。
+- [stripe](https://github.com/openclaw/skills/tree/main/skills/jononovo/stripe/SKILL.md) - 由 Stripe 提供支持的易于使用的代理钱包。
+- [stripe-best-practices](https://github.com/openclaw/skills/tree/main/skills/ifoster01/stripe-best-practices/SKILL.md) - 构建 Stripe 支付集成的最佳实践。
+- [synth-data](https://github.com/openclaw/skills/tree/main/skills/emsin44/synth-data/SKILL.md) - 从 Synthdata.co 查询加密货币、商品和股票的波动性预测。
+- [talkspresso](https://github.com/openclaw/skills/tree/main/skills/baron-talkspresso/talkspresso/SKILL.md) - 使用 Talkspresso 管理 Talkspresso 业务（服务、约会、产品、客户、收入、日历）。
+- [tech-security-audit](https://github.com/openclaw/skills/tree/main/skills/jacqueslauren/tech-security-audit/SKILL.md) - 该技能集成了 Nmap 扫描功能来执行本地网络漏洞评估。
+- [tfl](https://github.com/openclaw/skills/tree/main/skills/brianleach/tfl/SKILL.md) - 伦敦 TfL 交通 — 实时地铁到达、公交车预测、线路状态、服务中断、旅程规划。
+- [tixflow](https://github.com/openclaw/skills/tree/main/skills/seenfinity/tixflow/SKILL.md) - 由人工智能驱动的活动助手，用于发现、预订和协调活动门票。
+- [tixflow-v2](https://github.com/openclaw/skills/tree/main/skills/seenfinity/tixflow-v2/SKILL.md) - 由人工智能驱动的活动助手，用于发现、预订和协调活动门票。
+- [track-flight](https://github.com/openclaw/skills/tree/main/skills/rafaforesightai/track-flight/SKILL.md) - 实时跟踪航班的详细状态、登机口信息、延误和实时位置。
+- [translink-cli](https://github.com/openclaw/skills/tree/main/skills/alanburchill/translink-cli/SKILL.md) - 使用本地 translink_* 命令查询、排除故障并解释 Translink SEQ GTFS 静态 + 实时数据。
+- [travel-agent](https://github.com/openclaw/skills/tree/main/skills/aszelem/travel-agent/SKILL.md) - 通过电子邮件为您的人员查找、预订和更改航班。
+- [trip-protocol](https://github.com/openclaw/skills/tree/main/skills/reggie-sporewell/trip-protocol/SKILL.md) - Monad 上的迷幻 NFT 会暂时重写您代理的 SOUL.md。
+- [ubtrippin](https://github.com/openclaw/skills/tree/main/skills/fistfulayen/ubtrippin/SKILL.md) - 通过 UBTRIPPIN 为您的用户管理旅行 — 读取旅行、项目和预订详细信息。
+- [usc-booking-api](https://github.com/openclaw/skills/tree/main/skills/niklaspriddat/usc-booking-api/SKILL.md) - 扫描您的城市体育俱乐部场地，显示带有直接预订链接的课程，并可以预订和取消课程。
+- [void-atlas-protocol](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/void-atlas-protocol/SKILL.md) - 虚空地图集协议 – 带有航点、路线的四轴道德导航地图（权力、真相、主权、关怀）。
+- [vulnerability-scanner](https://github.com/openclaw/skills/tree/main/skills/brandonwise/vulnerability-scanner/SKILL.md) - OWASP 2025 的高级漏洞分析、供应链安全、攻击面映射和风险优先级。
+- [zerodha-kite](https://github.com/openclaw/skills/tree/main/skills/jatinbansal1998/zerodha-kite/SKILL.md) - 将自然语言交易/帐户查询路由到正确的“zerodha”CLI 命令，并具有精确的标志和验证。
+- [proxybase-openclaw-skill](https://github.com/openclaw/skills/tree/main/skills/proxybase-user/proxybase-openclaw-skill/SKILL.md) - 从此以后没有人能挡住你的爪子。自动配置socks5代理。

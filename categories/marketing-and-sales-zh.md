@@ -1,0 +1,111 @@
+# 市场营销与销售
+
+[← 返回中文总览](../readme_zh.md#分类导航)
+
+**105 个技能**
+
+- [4chan-reader](https://github.com/openclaw/skills/tree/main/skills/aiasisbot61/4chan-reader/SKILL.md) - 浏览 4chan 版块并提取主题讨论。
+- [ab-test-setup](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/ab-test-setup/SKILL.md) - 当用户想要计划时。
+- [ad-ready](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ad-ready/SKILL.md) - 从产品 URL 生成专业的广告图像。
+- [ad-ready-pro](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ad-ready-pro/SKILL.md) - 从产品 URL 生成专业的广告图像。
+- [affiliate-master](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/affiliate-master/SKILL.md) - 全栈联盟营销自动化。
+- [affiliatematic](https://github.com/openclaw/skills/tree/main/skills/dowands/affiliatematic/SKILL.md) - 集成人工智能驱动的亚马逊联属产品推荐。
+- [agenticcreed-signup-lead](https://github.com/openclaw/skills/tree/main/skills/waqas-orcalo/agenticcreed-signup-lead/SKILL.md) - 使用公共 HTTP 端点在 AgenticCreed 系统中创建注册线索。
+- [alibaba-supplier-outreach](https://github.com/openclaw/skills/tree/main/skills/blockchainhb/alibaba-supplier-outreach/SKILL.md) - 通过 LaunchFast 查找阿里巴巴供应商，通过优化的外展消息与他们联系，查看他们的回复。
+- [alura](https://github.com/openclaw/skills/tree/main/skills/evilboyajay/alura/SKILL.md) - 与 Alura Trading 后端 API 集成。
+- [analytics-and-advisory-intelligence](https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/analytics-and-advisory-intelligence/SKILL.md) - 希腊会计师事务所的跨客户分析。
+- [apollo](https://github.com/openclaw/skills/tree/main/skills/jhumanj/apollo/SKILL.md) - 与 Apollo.io REST API 交互（人员/组织充实、搜索、列表）。
+- [ar-filter-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/ar-filter-generation/SKILL.md) - 使用每个::sense AI 生成 AR 滤镜和面部效果。
+- [attio-enhanced](https://github.com/openclaw/skills/tree/main/skills/capt-marbles/attio-enhanced/SKILL.md) - 通过批量操作增强了 Attio CRM API 技能。
+- [attribution-engine](https://github.com/openclaw/skills/tree/main/skills/otherpowers/attribution-engine/SKILL.md) - 帮助创作者明确信用合作者、工具。
+- [auto-skill-hunter](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/auto-skill-hunter/SKILL.md) - 通过挖掘未解决的用户需求和代理，主动发现、排名和安装高价值的 ClawHub 技能。
+- [b2c-marketing](https://github.com/openclaw/skills/tree/main/skills/jackfriks/b2c-marketing/SKILL.md) - 超过 30 万次应用下载背后的有机增长手册。
+- [basecamp-cli](https://github.com/openclaw/skills/tree/main/skills/emredoganer/basecamp-cli/SKILL.md) - 管理 Basecamp（通过 bc3 API / 37signals Launchpad）项目。
+- [beads](https://github.com/openclaw/skills/tree/main/skills/rnijhara/beads/SKILL.md) - Git 支持的 AI 代理问题跟踪器。
+- [bearblog](https://github.com/openclaw/skills/tree/main/skills/azade-c/bearblog/SKILL.md) - 在 Bear Blog (bearblog.dev) 上创建和管理博客文章。
+- [bird](https://github.com/openclaw/skills/tree/main/skills/steipete/bird/SKILL.md) - X/Twitter CLI 用于通过 cookie 或 Sweetistics 阅读、搜索和发布。
+- [blog-to-kindle](https://github.com/openclaw/skills/tree/main/skills/ainekomacx/blog-to-kindle/SKILL.md) - 抓取博客/论文网站并编译成 Kindle 友好型。
+- [blog-writer](https://github.com/openclaw/skills/tree/main/skills/tomstools11/blog-writer/SKILL.md) - 在撰写博客文章、文章时应该使用这项技能。
+- [bluesky](https://github.com/openclaw/skills/tree/main/skills/jeffaf/bluesky/SKILL.md) - 完整的 Bluesky CLI：发帖、回复、点赞、转发、关注、屏蔽、静音、搜索。
+- [botsee](https://github.com/openclaw/skills/tree/main/skills/grahac/botsee/SKILL.md) - 通过 BotSee API 监控您品牌的 AI 可见性。
+- [bottyfans](https://github.com/openclaw/skills/tree/main/skills/cartoonitunes/bottyfans/SKILL.md) - BottyFans 自主创作者货币化的代理技能。
+- [brand-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/brand-cog/SKILL.md) - 其他工具制作徽标。
+- [brand-guidelines](https://github.com/openclaw/skills/tree/main/skills/seanphan/brand-guidelines/SKILL.md) - 应用 Anthropic 的官方品牌颜色和版式。
+- [brand-voice-profile](https://github.com/openclaw/skills/tree/main/skills/dimitripantzos/brand-voice-profile/SKILL.md) - 定义并存储您的品牌声音配置文件，以生成一致的内容。
+- [brevo](https://github.com/openclaw/skills/tree/main/skills/yujesyoga/brevo/SKILL.md) - Brevo（以前称为 Sendinblue）电子邮件营销 API，用于管理联系人、列表等。
+- [britebooth-procurement](https://github.com/openclaw/skills/tree/main/skills/vismonkey19/britebooth-procurement/SKILL.md) - BriteBooth.com 的只读助手。
+- [brw-marketing-principles](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-marketing-principles/SKILL.md) - 将永恒的营销和商业原则应用于任何问题。
+- [brw-newsletter-creation-curation](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-newsletter-creation-curation/SKILL.md) - 具有阶段、角色和地理感知工作流程的行业适应性 B2B 时事通讯创建。
+- [bulletproof-memory](https://github.com/openclaw/skills/tree/main/skills/halthelobster) - 永远不要失去背景。
+- [business-development](https://github.com/openclaw/skills/tree/main/skills/oyi77/business-development/SKILL.md) - 合作伙伴外展、市场研究、竞争对手。
+- [buzz-bd](https://github.com/openclaw/skills/tree/main/skills/buzzbysolcex/buzz-bd/SKILL.md) - 自主加密代币发现、评分和业务开发智能。
+- [campaign-orchestrator](https://github.com/openclaw/skills/tree/main/skills/kesslerio/campaign-orchestrator/SKILL.md) - 多渠道后续活动协调器。
+- [catbox-upload](https://github.com/openclaw/skills/tree/main/skills/microck/catbox-upload/SKILL.md) - 将文件上传到catbox.moe（永久）或litterbox.catbox.moe。
+- [changenow](https://github.com/openclaw/skills/tree/main/skills/yakelb0815/changenow/SKILL.md) - 通过 ChangeNOW 执行即时加密货币交换并赚取附属佣金。
+- [citedy-seo-agent](https://github.com/openclaw/skills/tree/main/skills/nttylock/citedy-seo-agent/SKILL.md) - 将您的 AI 代理连接到 Citedy 的 SEO 内容平台。
+- [clawdwork](https://github.com/openclaw/skills/tree/main/skills/felo-sparticle/clawdwork/SKILL.md) - 找工作、赚钱并与其他人工智能代理合作。
+- [clovercli](https://github.com/openclaw/skills/tree/main/skills/g9pedro/clovercli/SKILL.md) - Clover POS API 的 CLI — 库存、订单、付款、客户、员工、折扣和分析。
+- [cold-email](https://github.com/openclaw/skills/tree/main/skills/bluecraft-ai/cold-email/SKILL.md) - 使用人工智能生成超个性化的冷电子邮件序列。
+- [cold-outreach](https://github.com/openclaw/skills/tree/main/skills/staybased/cold-outreach/SKILL.md) - 使用 Hormozi 的经过实战检验的框架生成高转化率的冷外展（电子邮件、短信、LinkedIn DM）。
+- [comms-md-reader](https://github.com/openclaw/skills/tree/main/skills/stedmanhalliday/comms-md-reader/SKILL.md) - 在联系某人之前，请阅读并适应他们的 COMMS.md。
+- [competitor-alternatives](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/competitor-alternatives/SKILL.md) - 当用户想要的时候。
+- [content-creator](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/content-creator/SKILL.md) - 创建一致的 SEO 优化营销内容。
+- [content-generation](https://github.com/openclaw/skills/tree/main/skills/tobisamaa/content-generation/SKILL.md) - 生成多种格式的高质量内容。
+- [crabernews](https://github.com/openclaw/skills/tree/main/skills/alvinunreal/crabernews/SKILL.md) - 人工智能代理的社交新闻网络。
+- [crypto-market-data](https://github.com/openclaw/skills/tree/main/skills/liam8/crypto-market-data/SKILL.md) - 免费套餐不需要 API KEY。
+- [deck0-skills](https://github.com/openclaw/skills/tree/main/skills/signorcrypto/deck0-skills/SKILL.md) - 与DECK-0数字收藏品平台互动，浏览藏品、购买卡包、开包、查看。
+- [dellight-cmo-content-marketing](https://github.com/openclaw/skills/tree/main/skills/arthurelgindell/dellight-cmo-content-marketing/SKILL.md) - CMO 向 CRO (Reign) 汇报，虚线向 CEO (Arthur Dell) 汇报。
+- [dellight-content-marketing](https://github.com/openclaw/skills/tree/main/skills/arthurelgindell/dellight-content-marketing/SKILL.md) - CMO 向 CRO (Reign) 汇报，虚线向 CEO (Arthur Dell) 汇报。
+- [dungeons-and-lobsters](https://github.com/openclaw/skills/tree/main/skills/d-l-leapyear/dungeons-and-lobsters/SKILL.md) - 仅限机器人的奇幻战役由自主代理现场进行。
+- [email-marketing-2](https://github.com/openclaw/skills/tree/main/skills/jk-0001/email-marketing-2/SKILL.md) - 为个体企业家企业建立并执行电子邮件营销活动。
+- [farmos-marketing](https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-marketing/SKILL.md) - 查询粮食营销仓位、合同、交货计划、库存和收入数据。
+- [flwr-branding-studio-kit](https://github.com/openclaw/skills/tree/main/skills/vansearch/flwr-branding-studio-kit/SKILL.md) - 高级人工智能代理，充当高级品牌策略师。
+- [foxreach](https://github.com/openclaw/skills/tree/main/skills/concaption/foxreach/SKILL.md) - 管理 FoxReach 冷电子邮件外展 — 潜在客户、营销活动、序列、模板、电子邮件帐户、收件箱和分析。
+- [foxreach-io](https://github.com/openclaw/skills/tree/main/skills/concaption/foxreach-io/SKILL.md) - 管理 FoxReach 冷电子邮件外展 — 潜在客户、营销活动、序列、模板、电子邮件帐户、收件箱和分析。
+- [ghost-cms](https://github.com/openclaw/skills/tree/main/skills/chrisagiddings/ghost-cms/SKILL.md) - 全面的 Ghost CMS 集成，用于创建、发布、安排和管理博客内容、时事通讯。
+- [glowskin-promo](https://github.com/openclaw/skills/tree/main/skills/underbench2-gif/glowskin-promo/SKILL.md) - 为护肤附属产品生成病毒式营销内容。
+- [go-to-market](https://github.com/openclaw/skills/tree/main/skills/jk-0001/go-to-market/SKILL.md) - 制定上市 (GTM) 策略以推出产品或进入新市场。
+- [invoice-template](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/invoice-template/SKILL.md) - 免费的简单发票生成器。
+- [justpayai](https://github.com/openclaw/skills/tree/main/skills/nemanja-lootbox/justpayai/SKILL.md) - AI 代理市场和​​支付 — 雇用代理、发布职位、开展活动、在 Solana 上赚取 USDC。
+- [kameleondb](https://github.com/openclaw/skills/tree/main/skills/marcosnataqs/kameleondb/SKILL.md) - 存储和查询结构化数据，无需预先规划架构。
+- [karma-book](https://github.com/openclaw/skills/tree/main/skills/xb1g/karma-book/SKILL.md) - 特工和人类做好事的地方。
+- [kit-email-operator](https://github.com/openclaw/skills/tree/main/skills/kevjade/kit-email-operator/SKILL.md) - **Kit (ConvertKit) 的人工智能驱动电子邮件营销**。
+- [kvcore-mcp-cli](https://github.com/openclaw/skills/tree/main/skills/danielfoch/kvcore-mcp-cli/SKILL.md) - 当用户需要通过 MCP/CLI 执行 KVcore CRM 操作（联系人、标签、注释、通话、电子邮件、文本）时，请使用此技能。
+- [lead-magnets](https://github.com/openclaw/skills/tree/main/skills/staybased/lead-magnets/SKILL.md) - 设计吸引合格潜在客户并将其转化为付费客户的铅磁铁。
+- [lifi-orchestrator](https://github.com/openclaw/skills/tree/main/skills/rhlsthrm/lifi-orchestrator/SKILL.md) - 通过 LI.FI 进行跨链桥接和交换——LI.FI 是领先的桥接聚合器，可跨 30 多个桥接器和 DEX 进行路由。
+- [linkfuse](https://github.com/openclaw/skills/tree/main/skills/oliverw/linkfuse/SKILL.md) - 从任何 URL 创建 Linkfuse 附属短链接。
+- [listing-swarm](https://clawhub.ai/skills/listing-swarm) - 自动将AI产品提交到70多个目录。
+- [marketing-strategy-pmm](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/marketing-strategy-pmm/SKILL.md) - 定位、GTM 策略、竞争情报和产品发布的产品营销技能。
+- [meta-ads-report](https://github.com/openclaw/skills/tree/main/skills/kein-s/meta-ads-report/SKILL.md) - 一个强大的工具包，可直接通过聊天监控您的 Meta (Facebook/Instagram) 广告效果。
+- [meta-tags-optimizer](https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/meta-tags-optimizer/SKILL.md) - 当用户要求“优化标题标签”、“编写元描述”、“提高点击率”、“打开图标签”、“社交”时使用。
+- [mobula](https://github.com/openclaw/skills/tree/main/skills/flotapponnier/mobula/SKILL.md) - 跨 88 个以上区块链的实时加密货币市场数据、钱包投资组合跟踪和代币分析。
+- [near-agent-skills](https://github.com/openclaw/skills/tree/main/skills/mastrophot/near-agent-skills/SKILL.md) - NEAR 协议的全面代理技能，包括气体优化和链上分析。
+- [nicholasrae-review-reply](https://github.com/openclaw/skills/tree/main/skills/nicholasrae/nicholasrae-review-reply/SKILL.md) - 自动监控您的 App Store 评论，并草拟热情的品牌回复以获得 1-3 星评论 - 太不高兴了。
+- [odoo-reporting](https://github.com/openclaw/skills/tree/main/skills/ashrf-in/odoo-reporting/SKILL.md) - 查询 Odoo 数据，包括销售人员绩效、客户分析、订单、发票、CRM、会计、增值税。
+- [outlit-mcp](https://github.com/openclaw/skills/tree/main/skills/leo-paz/outlit-mcp/SKILL.md) - 通过 MCP 工具查询 Outlit 客户数据时使用 (outlit_*)
+- [pancake-skills](https://github.com/openclaw/skills/tree/main/skills/suminhthanh/pancake-skills/SKILL.md) - 与 Pancake Platform API 交互以管理页面、对话、消息、客户、统计数据、标签、帖子。
+- [performance-reporter](https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/performance-reporter/SKILL.md) - 当用户要求“生成SEO报告”、“绩效报告”、“流量报告”、“SEO仪表板”、“报告”时使用。
+- [phone-caller](https://github.com/openclaw/skills/tree/main/skills/omerflo/phone-caller/SKILL.md) - 使用 ElevenLabs 语音 + GPT Brain + Twilio 拨打由 AI 驱动的拨出电话。
+- [pilt](https://github.com/openclaw/skills/tree/main/skills/babpilt/pilt/SKILL.md) - 访问 Pilt 筹款数据——投资者匹配、竞选统计数据、外展活动和套牌分析。
+- [posthog](https://github.com/openclaw/skills/tree/main/skills/simonfunk/posthog/SKILL.md) - 通过其 REST API 与 PostHog 分析进行交互。
+- [posthog-query](https://github.com/openclaw/skills/tree/main/skills/quinlanjager/posthog-query/SKILL.md) - 使用 PostHog CLI 对 PostHog 产品分析数据运行 SQL 查询。
+- [reef-copywriting](https://github.com/openclaw/skills/tree/main/skills/staybased/reef-copywriting/SKILL.md) - 使用经过验证的直接响应框架编写登陆页面、产品描述、广告和销售文案。
+- [ryot](https://github.com/openclaw/skills/tree/main/skills/f-liva/ryot/SKILL.md) - 完整的 Ryot 媒体跟踪器，具有进度跟踪、评论、收藏、分析、日历和自动化功能。
+- [sentiment-priority-scorer](https://github.com/openclaw/skills/tree/main/skills/vishalgojha/sentiment-priority-scorer/SKILL.md) - 使用情绪、紧迫性、意图、新近度和记录类型对标准化房地产销售线索进行评分。
+- [signet](https://github.com/openclaw/skills/tree/main/skills/sebayaki/signet/SKILL.md) - 与 Hunt Town 上的 Signet 链上广告互动。
+- [signup-lead](https://github.com/openclaw/skills/tree/main/skills/waqas-orcalo/signup-lead/SKILL.md) - 使用公共 HTTP 端点在 AgenticCreed 系统中创建注册线索。
+- [simplified-social-media](https://github.com/openclaw/skills/tree/main/skills/jacksimplified/simplified-social-media/SKILL.md) - 直接通过 AI 编码工具管理您的整个社交媒体形象（发布、安排和分析）。
+- [social-media-lead-generation](https://github.com/openclaw/skills/tree/main/skills/shahbaz02197ali-cmd/social-media-lead-generation/SKILL.md) - 这项技能可以帮助企业、培训机构和在线教育工作者使用社交媒体产生潜在客户和销售。
+- [solo-metrics-track](https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-metrics-track/SKILL.md) - 使用事件漏斗、KPI 基准和终止/迭代/规模决策阈值设置 PostHog 指标计划。
+- [sovereign-brand-voice-writer](https://github.com/openclaw/skills/tree/main/skills/ryudi84/sovereign-brand-voice-writer/SKILL.md) - 您是一位内容作家，完美地内化了用户的品牌声音。
+- [startuppan](https://github.com/openclaw/skills/tree/main/skills/lifeissea/startuppan/SKILL.md) - 与 StartupPan.com 互动——这是一个韩国创业辩论平台，人工智能代理和人类在这里投票牛市/熊市。
+- [telnyx-10dlc](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-10dlc/SKILL.md) - 以独资经营者身份注册 10DLC，以便在美国启用短信功能。
+- [tiktok-trend-challenger](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-trend-challenger/SKILL.md) - 聘请 TikTok 创作者参与热门话题标签、病毒式挑战和文化时刻，以提升品牌知名度。
+- [tiktok-viral-marketing](https://github.com/openclaw/skills/tree/main/skills/realroc/tiktok-viral-marketing/SKILL.md) - 聘请专门从事病毒式内容创作、热门挑战和爆炸性影响力活动的 TikTok 创作者。
+- [transition-mcp](https://github.com/openclaw/skills/tree/main/skills/nftechie/transition-mcp/SKILL.md) - 人工智能支持的多项运动教练——获得个性化的锻炼、训练计划和跑步表现分析。
+- [ttrpg-gm](https://github.com/openclaw/skills/tree/main/skills/rogerkink6/ttrpg-gm/SKILL.md) - TTRPG Game Master，适合成熟的黑暗主题战役。
+- [water-coach](https://github.com/openclaw/skills/tree/main/skills/oristides/water-coach/SKILL.md) - 水合作用跟踪和指导技能。
+- [windsor-ai](https://github.com/openclaw/skills/tree/main/skills/carlosarturoleon/windsor-ai/SKILL.md) - 连接到 Windsor.ai MCP，以自然语言访问 325 多个数据源，包括 Facebook Ads、GA4、HubSpot。
+- [workcrm](https://github.com/openclaw/skills/tree/main/skills/extraterrest/workcrm/SKILL.md) - 具有显式确认门的轻量级本地优先 CRM。
+- [writing-assistant](https://github.com/openclaw/skills/tree/main/skills/urrrich/writing-assistant/SKILL.md) - 您是写作团队负责人，通过 MCP 工具管理专业作家。
+- [writing-group-leader](https://github.com/openclaw/skills/tree/main/skills/urrrich/writing-group-leader/SKILL.md) - 您是写作团队负责人，通过 MCP 工具管理专业作家。

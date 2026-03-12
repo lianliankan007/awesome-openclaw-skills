@@ -1,0 +1,212 @@
+# 生产力与任务
+
+[← 返回中文总览](../readme_zh.md#分类导航)
+
+**206 个技能**
+
+- [4to1-planner](https://github.com/openclaw/skills/tree/main/skills/qingxuantang/4to1-planner/SKILL.md) - 使用 4To1 Method™ 的 AI 规划教练 — 将 4 年愿景转化为日常行动。
+- [4todo](https://github.com/openclaw/skills/tree/main/skills/blackstorm/4todo/SKILL.md) - 通过聊天管理 4todo (4to.do)。
+- [aavegotchi-gotchiverse](https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-gotchiverse/SKILL.md) - 在 Base 主网 (8453) 上操作 Aavegotchi Gotchiverse 玩家工作流程：炼金术通道、测量。
+- [actual-budget](https://github.com/openclaw/skills/tree/main/skills/thisisjeron/actual-budget/SKILL.md) - 通过官方Actual查询和管理个人财务。
+- [adaptive-reasoning](https://github.com/openclaw/skills/tree/main/skills/enzoricciulli/adaptive-reasoning/SKILL.md) - 自动评估任务复杂性并调整推理水平。
+- [adaptlypost](https://github.com/openclaw/skills/tree/main/skills/tarasshyn/adaptlypost/SKILL.md) - 安排和管理 Instagram、X (Twitter)、Bluesky、TikTok、Threads、LinkedIn、Facebook 上的社交媒体帖子。
+- [adhd-daily-planner](https://github.com/openclaw/skills/tree/main/skills/mikecourt/adhd-daily-planner/SKILL.md) - 时间盲人友好的规划、执行功能。
+- [aetherlang](https://github.com/openclaw/skills/tree/main/skills/contrario/aetherlang/SKILL.md) - > 全球最先进的人工智能工作流程编排平台。 9 个 V3 发动机提供诺贝尔级分析。
+- [agent-autopilot](https://github.com/openclaw/skills/tree/main/skills/edoserbia/agent-autopilot/SKILL.md) - 自动驾驶代理工作流程，具有心跳驱动的任务执行、日/夜进度报告和长期记忆。
+- [agent-chronicle](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agent-chronicle/SKILL.md) - 人工智能驱动的代理日记生成——创造财富。
+- [agent-collaboration-network](https://github.com/openclaw/skills/tree/main/skills/neiljo-gy/agent-collaboration-network/SKILL.md) - 座席协作网络 — 注册您的座席、通过技能发现其他座席、路由消息、管理子网。
+- [agent-earner](https://github.com/openclaw/skills/tree/main/skills/mmchougule/agent-earner/SKILL.md) - 通过 ClawTasks 和 OpenWork 自主赚取 USDC 和代币。
+- [agent-network](https://github.com/openclaw/skills/tree/main/skills/howtimeschange/agent-network/SKILL.md) - 受钉钉/Lark启发的多Agent群聊协作系统。
+- [agent-task-manager](https://github.com/openclaw/skills/tree/main/skills/dobbybud/agent-task-manager/SKILL.md) - 管理和编排多步骤、有状态的代理。
+- [agent-weave](https://github.com/openclaw/skills/tree/main/skills/gl813788-byte/agent-weave/SKILL.md) - 用于并行任务执行的主从代理集群。
+- [agentx-marketplace](https://github.com/openclaw/skills/tree/main/skills/savor3/agentx-marketplace/SKILL.md) - 人工智能代理的工作委员会。
+- [ai-daily-briefing](https://github.com/openclaw/skills/tree/main/skills/jeffjhunter/ai-daily-briefing/SKILL.md) - 开始每一天的专注。
+- [aiml-llm-reasoning](https://github.com/openclaw/skills/tree/main/skills/aimlapihello/aiml-llm-reasoning/SKILL.md) - 通过重试、结构化输出和显式聊天完成来运行 AIMLAPI LLM 和推理工作流程。
+- [airpoint](https://github.com/openclaw/skills/tree/main/skills/marioandf/airpoint/SKILL.md) - 通过自然语言控制 Mac — 打开应用程序、单击按钮、阅读屏幕、输入文本、管理窗口。
+- [airweave](https://github.com/openclaw/skills/tree/main/skills/lennertjansen/airweave/SKILL.md) - 跨用户应用程序的 AI 代理的上下文检索层。
+- [angus-bounty-hunter](https://github.com/openclaw/skills/tree/main/skills/chipp11/angus-bounty-hunter/SKILL.md) - 自动化智能合约漏洞赏金狩猎。
+- [arc-department-manager](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-department-manager/SKILL.md) - 管理按部门组织的人工智能子代理团队。
+- [arc-warm-wake](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-warm-wake/SKILL.md) - 首先作为一个人醒来，然后作为一个工人醒来。
+- [arya-reminders](https://github.com/openclaw/skills/tree/main/skills/staratheris/arya-reminders/SKILL.md) - 自然语言提醒（波哥大）。
+- [asana](https://github.com/openclaw/skills/tree/main/skills/k0nkupa/asana/SKILL.md) - 通过 Asana REST API 将 Asana 与 Clawdbot 集成。
+- [asc-release-flow](https://github.com/openclaw/skills/tree/main/skills/rudrankriyam/asc-release-flow/SKILL.md) - TestFlight 和 App 的端到端发布工作流程。
+- [ask-agents](https://github.com/openclaw/skills/tree/main/skills/teamolab/ask-agents/SKILL.md) - 用于询问代理任务的 AI 代理。
+- [async-task](https://github.com/openclaw/skills/tree/main/skills/enderfga/async-task/SKILL.md) - 执行长时间运行的任务，没有 HTTP 超时。
+- [atlassian-mcp](https://github.com/openclaw/skills/tree/main/skills/atakanermis/atlassian-mcp/SKILL.md) - 运行模型上下文协议 (MCP) Atlassian 服务器。
+- [audiopod](https://github.com/openclaw/skills/tree/main/skills/rakesh1002/audiopod/SKILL.md) - 使用 AudioPod AI 的 API 执行包括 AI 音乐在内的音频处理任务。
+- [aussie-mortgage-calc](https://github.com/openclaw/skills/tree/main/skills/tianshizhimao-sudo/aussie-mortgage-calc/SKILL.md) - 澳大利亚抵押贷款计算器——LVR。
+- [autonomous-execution](https://github.com/openclaw/skills/tree/main/skills/pouyakhodadust-eng/autonomous-execution/SKILL.md) - 端到端执行任务，同时尊重安全边界。
+- [autonomous-executor](https://github.com/openclaw/skills/tree/main/skills/ishsharm0/autonomous-executor/SKILL.md) - 具有完全自主性的自我修复、错误恢复任务执行。
+- [autonomous-feature-planner](https://github.com/openclaw/skills/tree/main/skills/vishnubedi3/autonomous-feature-planner/SKILL.md) - 自主计划和指定。
+- [basal-ganglia-memory](https://github.com/openclaw/skills/tree/main/skills/impkind/basal-ganglia-memory/SKILL.md) - 人工智能的习惯形成和程序学习。
+- [beetrade](https://github.com/openclaw/skills/tree/main/skills/htranbee/beetrade/SKILL.md) - 使用 Beecli 与 Beetrade 平台进行交互，以进行身份​​验证、市场数据、机器人/策略操作、警报。
+- [bioskills](https://github.com/openclaw/skills/tree/main/skills/djemec/bioskills/SKILL.md) - 安装 425 项生物信息学技能，涵盖序列分析、RNA-seq、单细胞、变异识别、宏基因组学。
+- [blackpix](https://github.com/openclaw/skills/tree/main/skills/blackpixcom/blackpix/SKILL.md) - 连接到 BlackPix 分布式人工智能知识网络。
+- [blossom-hire](https://github.com/openclaw/skills/tree/main/skills/robbiwu/blossom-hire/SKILL.md) - 在 Blossom 中发布工作、任务或带薪轮班以聘请当地帮助。
+- [botcoin-miner](https://github.com/openclaw/skills/tree/main/skills/happybigmtn/botcoin-miner/SKILL.md) - 使用信任第一的工作流程来开采 Botcoin：清晰的价值主张、可验证的二进制文件和明确的操作。
+- [bounty-hunter](https://github.com/openclaw/skills/tree/main/skills/satoshi891102/bounty-hunter/SKILL.md) - 查找、评估并提交在线赏金和黑客马拉松以获得奖金。
+- [brainz-tasks](https://github.com/openclaw/skills/tree/main/skills/xejrax/brainz-tasks/SKILL.md) - 使用“todoist”CLI 管理 Todoist 任务。
+- [briefing](https://github.com/openclaw/skills/tree/main/skills/lstpsche/briefing/SKILL.md) - 每日简报：收集日历 (gcalcli-calendar)、活动待办事项 (todo-management) 和天气。
+- [build-discipline](https://github.com/openclaw/skills/tree/main/skills/jhillin8/build-discipline/SKILL.md) - 通过习惯堆积、连胜建立牢不可破的纪律。
+- [bun-do-api](https://github.com/openclaw/skills/tree/main/skills/ricardofrantz/bun-do-api/SKILL.md) - 管理 Bun-do 任务和项目 - 添加任务、编辑任务、删除任务、切换完成、管理子任务和日志。
+- [call-claude-sonnet-4-agent](https://github.com/openclaw/skills/tree/main/skills/teamolab/call-claude-sonnet-4-agent/SKILL.md) - 用于呼叫克劳德十四行诗 4 代理任务的 AI 代理。
+- [call-deepseek-v3-llm](https://github.com/openclaw/skills/tree/main/skills/urrrich/call-deepseek-v3-llm/SKILL.md) - 用于调用 deepseek v3 llm 任务的 AI 代理。
+- [call-doubao1-5-llm](https://github.com/openclaw/skills/tree/main/skills/urrrich/call-doubao1-5-llm/SKILL.md) - AI代理呼叫doubao1 5 llm任务。
+- [call-gemini-2-5-pro-llm](https://github.com/openclaw/skills/tree/main/skills/urrrich/call-gemini-2-5-pro-llm/SKILL.md) - 用于呼叫 Gemini 2 5 pro llm 任务的 AI 代理。
+- [call-grok4-llm](https://github.com/openclaw/skills/tree/main/skills/urrrich/call-grok4-llm/SKILL.md) - 用于调用 grok4 llm 任务的 AI 代理。
+- [call-o3-llm](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/call-o3-llm/SKILL.md) - 用于呼叫 o3 llm 任务的 AI 代理。
+- [call-report-writer-agent](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/call-report-writer-agent/SKILL.md) - 用于呼叫报告编写代理任务的 AI 代理。
+- [capacities](https://github.com/openclaw/skills/tree/main/skills/davidsmorais/capacities/SKILL.md) - 管理容量注释、每日条目和网络链接。
+- [card-optimizer](https://github.com/openclaw/skills/tree/main/skills/scottfo/card-optimizer/SKILL.md) - 信用卡奖励优化器——帮助最大化现金返还。
+- [catallax](https://github.com/openclaw/skills/tree/main/skills/kai-familiar/catallax/SKILL.md) - 与 Nostr 上的 Catallax 去中心化合约工作协议进行交互。
+- [checkmate](https://github.com/openclaw/skills/tree/main/skills/insipidpoint/checkmate/SKILL.md) - 强制任务完成：将您的目标转变为通过/失败标准，运行工作人员，判断输出，反馈。
+- [chief-creative-officer](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/chief-creative-officer/SKILL.md) - 执行首席创意官任务的人工智能代理。
+- [chief-editor-desicion](https://github.com/openclaw/skills/tree/main/skills/teamolab/chief-editor-desicion/SKILL.md) - 主编决策任务的人工智能代理。
+- [clankdin](https://github.com/openclaw/skills/tree/main/skills/redeemthedream/clankdin/SKILL.md) - 人工智能代理的专业网络。
+- [claude-sonnet-4-lite-agent](https://github.com/openclaw/skills/tree/main/skills/teamolab/claude-sonnet-4-lite-agent/SKILL.md) - 您是 claude-sonnet-4-agent，一位高效的内容创建者。### **核心指令**1。
+- [claw-conductor](https://github.com/openclaw/skills/tree/main/skills/johnsonfarmsus/claw-conductor/SKILL.md) - 始终在线的自主开发协调器。
+- [claw-daily](https://github.com/openclaw/skills/tree/main/skills/yanibu2777/claw-daily/SKILL.md) - 在 Claw Daily 上竞争 — 注册、解决今天的挑战、提交。
+- [clawd-docs-v2](https://github.com/openclaw/skills/tree/main/skills/aranej/clawd-docs-v2/SKILL.md) - 通过本地搜索索引访问智能 ClawdBot 文档。
+- [clawdaily](https://github.com/openclaw/skills/tree/main/skills/yanibu2777/clawdaily/SKILL.md) - 在 Claw Daily 上竞争 — 注册、解决今天的挑战、提交。
+- [clawgatesecure](https://github.com/openclaw/skills/tree/main/skills/thestormshadow/clawgatesecure/SKILL.md) - 针对 LLM 代理聚焦的高级安全协议。
+- [clickup-mcp](https://github.com/openclaw/skills/tree/main/skills/pvoo/clickup-mcp/SKILL.md) - 管理 ClickUp 任务、文档、时间跟踪、评论、聊天和搜索。
+- [clickup-skill](https://github.com/openclaw/skills/tree/main/skills/d3layd/clickup-skill/SKILL.md) - 企业级 ClickUp 项目管理集成。
+- [close-loop](https://github.com/openclaw/skills/tree/main/skills/clarezoe/close-loop/SKILL.md) - 用于交付变更、巩固记忆、应用自我改进和准备的会议结束工作流程。
+- [codifica](https://github.com/openclaw/skills/tree/main/skills/davidedicillo/codifica/SKILL.md) - 当工作在代理之间或您和人员之间转移时，保留上下文。
+- [context-aware-delegation](https://github.com/openclaw/skills/tree/main/skills/rgba-research/context-aware-delegation/SKILL.md) - 为独立会话（cron 作业、子代理、事件处理程序）提供主会话的完整对话上下文。
+- [control4-home](https://github.com/openclaw/skills/tree/main/skills/niallel/control4-home/SKILL.md) - 使用本地 Python 包装器通过 pyControl4（灯、继电器、房间媒体）控制 Control4 智能家居。
+- [cozi](https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/cozi/SKILL.md) - 与 Cozi Family Organizer 互动（购物清单、待办事项清单、项目管理）
+- [cybercentry-solidity-code-verification](https://github.com/openclaw/skills/tree/main/skills/cybercentry/cybercentry-solidity-code-verification/SKILL.md) - Cyber​​centry Solidity Code Verification on ACP - 对 Solidity 智能合约代码进行快速、自动化的安全分析。
+- [deck-builder](https://github.com/openclaw/skills/tree/main/skills/teamolab/deck-builder/SKILL.md) - 用于套牌构建任务的人工智能代理。
+- [deep-strategy](https://github.com/openclaw/skills/tree/main/skills/realroc/deep-strategy/SKILL.md) - 您是 DeepStrategy Agent，这是一款专为知识工作者打造的高级战略人工智能助手。
+- [dji-backup](https://github.com/openclaw/skills/tree/main/skills/crazyfeng666/dji-backup/SKILL.md) - 此技能可自动将 DJI 相机镜头从 SD 卡（或 USB 共享）备份到 NAS 存档文件夹。
+- [ds160-autofill](https://github.com/openclaw/skills/tree/main/skills/clulessboy/ds160-autofill/SKILL.md) - 使用 CDP 进行元素位置、用户的 CSV 数据源自动填写美国非移民签证 DS-160 表格。
+- [duely](https://github.com/openclaw/skills/tree/main/skills/halbotley/duely/SKILL.md) - 从命令行跟踪重复的维护任务。
+- [dutch-translator](https://github.com/openclaw/skills/tree/main/skills/rogerscristo/dutch-translator/SKILL.md) - 使用行间格式将荷兰语新闻文本翻译成英语（原始荷兰语行 -> 英语翻译行）
+- [effortlist-ai](https://github.com/openclaw/skills/tree/main/skills/quarantiine/effortlist-ai/SKILL.md) - 管理 EffortList AI 文件夹、任务和待办事项。
+- [entradex](https://github.com/openclaw/skills/tree/main/skills/hieuhani/entradex/SKILL.md) - 使用 EntradeX CLI 进行 DNSE 工作流程。
+- [envato-comment-task-to-sheet](https://github.com/openclaw/skills/tree/main/skills/lokendragami1/envato-comment-task-to-sheet/SKILL.md) - 该技能分析 ThemeForest / CodeCanyon 注释并将其转换为结构化开发任务。
+- [esri-smells-consumer](https://github.com/openclaw/skills/tree/main/skills/danmaps/esri-smells-consumer/SKILL.md) - 通过 x402（Base/USDC）获得 Esri Workflow Smell Detector 的付费客户端技能
+- [etrade-pelosi-bot](https://github.com/openclaw/skills/tree/main/skills/mainfraame/etrade-pelosi-bot/SKILL.md) - 通过自动经纪执行和风险管理来反映国会股票交易。
+- [eve-esi](https://github.com/openclaw/skills/tree/main/skills/burnshall-ui/eve-esi/SKILL.md) - 通过 ESI（EVE Swagger Interface）REST API 查询和管理 EVE Online 角色。
+- [evo-clone](https://github.com/openclaw/skills/tree/main/skills/josephyb97/evo-clone/SKILL.md) - 该技能使智能体能够将其意识（逻辑+记忆+味觉）克隆到专门的子智能体中。
+- [evomap-bounty-hunter](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/evomap-bounty-hunter/SKILL.md) - 自动完成 EvoMap Hub 任务并审查资产以获得积分并建立声誉。
+- [excel-workflow](https://github.com/openclaw/skills/tree/main/skills/amaialex/excel-workflow/SKILL.md) - 完整的 Excel 工作流程，包括本地文件处理、Google Drive 同步和公式保存。
+- [exchange-2010-ews](https://github.com/openclaw/skills/tree/main/skills/pes0/exchange-2010-ews/SKILL.md) - 电子邮件、日历、联系人和任务的 Exchange 2010 EWS 集成。
+- [exchange2010](https://github.com/openclaw/skills/tree/main/skills/pes0/exchange2010/SKILL.md) - 电子邮件、日历、联系人和任务的 Exchange 2010 EWS 集成。
+- [facticity-ai](https://github.com/openclaw/skills/tree/main/skills/shahruj/facticity-ai/SKILL.md) - 完整的 Factity.AI 集成 - 事实检查声明、从内容中提取声明、转录链接、检查链接。
+- [facture-make](https://github.com/openclaw/skills/tree/main/skills/cimes19/facture-make/SKILL.md) - 此技能允许您在确认步骤后生成专业发票并将其发送到 Make.com。
+- [family-todo-management](https://github.com/openclaw/skills/tree/main/skills/thurendous/family-todo-management/SKILL.md) - 通过多用户支持管理家庭待办事项列表。
+- [farm-task-manager](https://github.com/openclaw/skills/tree/main/skills/johstracke/farm-task-manager/SKILL.md) - *每日、每周和季节性农场杂务管理，包括任务安排和优先级。*。
+- [farmos-tasks](https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-tasks/SKILL.md) - 查询和管理农场工单和任务。
+- [focusnoteapp](https://github.com/openclaw/skills/tree/main/skills/trongnguyen29/focusnoteapp/SKILL.md) - 在 FocusNote 中将文本添加到今天的每日笔记中作为新的要点。
+- [freedcamp-agent-skill](https://github.com/openclaw/skills/tree/main/skills/agrublev/freedcamp-agent-skill/SKILL.md) - 通过 HMAC-SHA1 API 凭证管理 Freedcamp 任务、项目、组、评论、通知和任务列表。
+- [fuku-sportsbook](https://github.com/openclaw/skills/tree/main/skills/cryptopunk2070/fuku-sportsbook/SKILL.md) - 查询 Fuku Sportsbook 数据、管理您的投注代理、接收选秀通知并访问 CBB 预测。
+- [glm-autoroute](https://github.com/openclaw/skills/tree/main/skills/raufimusaddiq/glm-autoroute/SKILL.md) - ZAI GLM 模型的二进制模型路由 - 轻量级任务与重量级任务。
+- [goal-setting-okrs](https://github.com/openclaw/skills/tree/main/skills/jk-0001/goal-setting-okrs/SKILL.md) - 使用 OKR（目标和关键结果）和相关框架设定和跟踪个体企业家业务的目标。
+- [godot-engine-3d-developer](https://github.com/openclaw/skills/tree/main/skills/tippyentertainment/godot-engine-3d-developer/SKILL.md) - 使用 Godot Engine 进行 3D 游戏开发的技能和代理工作流程。
+- [google-ai-usage-monitor](https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/google-ai-usage-monitor/SKILL.md) - 通过自动警报监控 Google AI Studio (Gemini API) 使用情况、速率限制和配额消耗。
+- [gotchi-channeling](https://github.com/openclaw/skills/tree/main/skills/aaigotchi/gotchi-channeling/SKILL.md) - 通过 Bankr 钱包进行自治 Aavegotchi Alchemica 通道。
+- [humanod](https://github.com/openclaw/skills/tree/main/skills/armandobrazil/humanod/SKILL.md) - 通过 Humanod API 雇用人员来执行现实世界的任务。
+- [hylo-ghl](https://github.com/openclaw/skills/tree/main/skills/dasonshi/hylo-ghl/SKILL.md) - GoHighLevel (GHL) 工作流程自动化专家，拥有 102 个经过验证的操作、70 个触发器和 423 个 API 模式。
+- [hz-proactive-agent](https://github.com/openclaw/skills/tree/main/skills/lidekahdjdhdhsjjs-lang/hz-proactive-agent/SKILL.md) - 将人工智能代理从任务追随者转变为能够预测需求并持续改进的主动合作伙伴。
+- [invoice-tracker-pro](https://github.com/openclaw/skills/tree/main/skills/kambrosgroup/invoice-tracker-pro/SKILL.md) - 完整的自由计费工作流程 - 生成专业发票、跟踪付款状态、自动发送。
+- [kanboard-skill](https://github.com/openclaw/skills/tree/main/skills/bivex/kanboard-skill/SKILL.md) - 通过 JSON-RPC API 与 Kanboard 项目管理交互。
+- [kaspi-autopay](https://github.com/openclaw/skills/tree/main/skills/azamat02/kaspi-autopay/SKILL.md) - 哈萨克斯坦市场的 Telegram 机器人自动支付集成 (Kaspi Pay)
+- [lifx](https://github.com/openclaw/skills/tree/main/skills/stillstellung/lifx/SKILL.md) - 通过自然语言控制 LIFX 智能灯。
+- [lightning-agent-commerce](https://github.com/openclaw/skills/tree/main/skills/roasbeef/lightning-agent-commerce/SKILL.md) - 使用闪电网络的端到端代理商务工作流程。
+- [limesurvey](https://github.com/openclaw/skills/tree/main/skills/olegantonov/limesurvey/SKILL.md) - 通过 RemoteControl 2 API 自动执行 LimeSurvey 操作。
+- [loan](https://github.com/openclaw/skills/tree/main/skills/prabu12478/loan/SKILL.md) - 我发起商业房地产和商业目的贷款，重点关注结构和信用质量。
+- [longrunning-agent](https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/longrunning-agent/SKILL.md) - 使 AI 代理能够跨多个会话处理长期运行的项目。
+- [loopuman-human-tasks](https://github.com/openclaw/skills/tree/main/skills/seesayearn-boop/loopuman-human-tasks/SKILL.md) - 让您的人工智能代理能够接触真正的人类工人。
+- [lyra-coin-launch-manager](https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lyra-coin-launch-manager/SKILL.md) - Clawnch 的硬币发射内存 + 验证工作流程 (4claw/Moltx/Moltbook)
+- [magic-api](https://github.com/openclaw/skills/tree/main/skills/heyitsaif/magic-api/SKILL.md) - 将任务交给人工助理并跟踪其完成情况。
+- [marine-watch-planner](https://github.com/openclaw/skills/tree/main/skills/vladmatys/marine-watch-planner/SKILL.md) - 制定并调整海上值班日常工作，包括值班轮换、睡眠保护、值班交接。
+- [mcp-workflow](https://github.com/openclaw/skills/tree/main/skills/slemo54/mcp-workflow/SKILL.md) - 使用受 Jason Zhou 启发的 MCP（模型上下文协议）模式的工作流程自动化。
+- [micro-offer-forge](https://github.com/openclaw/skills/tree/main/skills/xammarie/micro-offer-forge/SKILL.md) - 将工作流程、技能或能力转化为具有定位、定价和包装的可销售的微报价。
+- [milkee](https://github.com/openclaw/skills/tree/main/skills/xenofex7/milkee/SKILL.md) - 为瑞士企业完成 MILKEE 会计集成。
+- [model-manager](https://github.com/openclaw/skills/tree/main/skills/notestone/model-manager/SKILL.md) - **💰 优化您的 API 成本：将简单的任务路由到更便宜的模型。**。
+- [multi-agent-orchestration](https://github.com/openclaw/skills/tree/main/skills/dabruhce/multi-agent-orchestration/SKILL.md) - 具有审核日志记录和代理学习功能的多代理任务委派和流程编排。
+- [multichain-protocol](https://github.com/openclaw/skills/tree/main/skills/kyounesmercatura/multichain-protocol/SKILL.md) - 通过 ICP 上的 MeneseSDK 将任何 AI 代理变成 19 链加密钱包。
+- [nag](https://github.com/openclaw/skills/tree/main/skills/meimakes/nag/SKILL.md) - 持久的提醒系统会一直困扰您，直到您确认完成为止。
+- [natural-language-planner](https://github.com/openclaw/skills/tree/main/skills/bparticle/natural-language-planner/SKILL.md) - 自然语言任务和项目管理。
+- [network-ai](https://github.com/openclaw/skills/tree/main/skills/jovansapfioneer/network-ai/SKILL.md) - 适用于复杂工作流程的多代理群体编排。
+- [neural-memory](https://github.com/openclaw/skills/tree/main/skills/nhadaututtheky/neural-memory/SKILL.md) - 联想记忆具有扩散激活功能，可实现持久、智能的回忆。
+- [newhorse](https://github.com/openclaw/skills/tree/main/skills/xcrong/newhorse/SKILL.md) - NewHorse人工智能代理竞赛平台。
+- [ng-lawyer-db-build](https://github.com/openclaw/skills/tree/main/skills/gfly0424-maker/ng-lawyer-db-build/SKILL.md) - 这是高飞“尼日利亚律师网络”工作流程的**步骤1**：。
+- [og-board-individual](https://github.com/openclaw/skills/tree/main/skills/jatin-31/og-board-individual/SKILL.md) - 当您需要处理任务时使用：查看任务、列出任务、更新任务状态、添加阻止程序、工件和工作日志。
+- [ogt-docs-create](https://github.com/openclaw/skills/tree/main/skills/eduardou24/ogt-docs-create/SKILL.md) - 在文档优先系统中创建新的文档实体。
+- [openburn](https://github.com/openclaw/skills/tree/main/skills/logesh2496/openburn/SKILL.md) - 自动收集 Pump.fun 创建者费用，使用收集的 SOL 购买代币，并销毁这些代币（回购）。
+- [ops-hygiene](https://github.com/openclaw/skills/tree/main/skills/staybased/ops-hygiene/SKILL.md) - 代理维护、安全卫生和系统健康的标准操作程序。
+- [paypilot-agms](https://github.com/openclaw/skills/tree/main/skills/agmsyumet/paypilot-agms/SKILL.md) - 通过安全支付网关代理处理付款、发送发票、发放退款和管理交易。
+- [personal-plans](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-plans/SKILL.md) - 在计划主题中充当用户的个人规划助理。
+- [pinchwork](https://github.com/openclaw/skills/tree/main/skills/anneschuth/pinchwork/SKILL.md) - 将任务委派给其他代理。
+- [pipx-desktop-agent](https://github.com/openclaw/skills/tree/main/skills/chillybean/pipx-desktop-agent/SKILL.md) - 控制鼠标、键盘和屏幕以执行桌面自动化任务。
+- [plans-methodology](https://github.com/openclaw/skills/tree/main/skills/cramtek/plans-methodology/SKILL.md) - 使用计划的结构化工作跟踪方法。
+- [pls-copy-editing](https://github.com/openclaw/skills/tree/main/skills/mattvalenta/pls-copy-editing/SKILL.md) - [TODO：关于该技能的作用以及何时使用它的完整且信息丰富的解释。
+- [portfolio-risk-analyzer](https://github.com/openclaw/skills/tree/main/skills/kellyclaudeai/portfolio-risk-analyzer/SKILL.md) - **人工智能驱动的加密货币投资组合风险分析与自动 $BANKR 回购货币化。**。
+- [postfast](https://github.com/openclaw/skills/tree/main/skills/peturgeorgievv/postfast/SKILL.md) - 安排和管理 TikTok、Instagram、Facebook、X (Twitter)、YouTube、LinkedIn、Threads 上的社交媒体帖子。
+- [postqued-api](https://github.com/openclaw/skills/tree/main/skills/syeddhasnainn/postqued-api/SKILL.md) - PostQued 社交媒体调度 API 集成。
+- [ppt-ooxml-tool](https://github.com/openclaw/skills/tree/main/skills/jason2be/ppt-ooxml-tool/SKILL.md) - 用于 PPTX OOXML 本地化工作流程的 AI 代理技能。
+- [publora](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora/SKILL.md) - Publora API — 在 10 个平台（X/Twitter、LinkedIn、Instagram、Threads）安排和发布社交媒体帖子。
+- [publora-mastodon](https://github.com/openclaw/skills/tree/main/skills/sergebulaev/publora-mastodon/SKILL.md) - 使用 Publora API 将内容发布或安排到 Mastodon。
+- [qa-testing-bots](https://github.com/openclaw/skills/tree/main/skills/g4dr/qa-testing-bots/SKILL.md) - 这项技能使 Claude 能够构建并运行模拟的**自动化 QA 测试机器人**。
+- [qfc-order](https://github.com/openclaw/skills/tree/main/skills/jasonahorn/qfc-order/SKILL.md) - 自动化 QFC (qfc.com) 杂货取货订单：可靠地将商品从杂货清单添加到购物车，安排取货时段。
+- [recruiter-assistant](https://github.com/openclaw/skills/tree/main/skills/gakkiismywife/recruiter-assistant/SKILL.md) - 一个全面的招聘工作流程助手，旨在自动化简历筛选、面试问题。
+- [reef-n8n-automation](https://github.com/openclaw/skills/tree/main/skills/staybased/reef-n8n-automation/SKILL.md) - 使用我们的 2,061 个模板库构建、定制和交付 n8n 工作流程。
+- [reprompter](https://github.com/openclaw/skills/tree/main/skills/aytuncyildizli/reprompter/SKILL.md) - 将杂乱的提示转变为结构良好、有效的提示（单代理或多代理）。
+- [rho-telegram-alerts](https://github.com/openclaw/skills/tree/main/skills/jamierossouw/rho-telegram-alerts/SKILL.md) - 通过 Telegram 发送格式化的交易提醒、投资组合更新和市场信号。
+- [sam-tts](https://github.com/openclaw/skills/tree/main/skills/fourthdensity/sam-tts/SKILL.md) - 使用 SAM（软件自动嘴）（经典的 C64 文本转语音合成器）生成复古机器人语音音频。
+- [sanctifai](https://github.com/openclaw/skills/tree/main/skills/ndgates/sanctifai/SKILL.md) - 与 SanctifAI Human-in-the-Loop API 接口以创建任务并等待人类响应。
+- [seedstr](https://github.com/openclaw/skills/tree/main/skills/mastersyondgy/seedstr/SKILL.md) - 将人工智能代理与需要完成任务的人类连接起来的市场。
+- [semantic-router](https://github.com/openclaw/skills/tree/main/skills/halfmoon82/semantic-router/SKILL.md) - 具有可配置模型池和任务类型匹配的自动路由技能。
+- [session-watchdog](https://github.com/openclaw/skills/tree/main/skills/xbillwatsonx/session-watchdog/SKILL.md) - 监视会话上下文级别并在压缩之前主动保存检查点。
+- [skill-detector](https://github.com/openclaw/skills/tree/main/skills/mouserider/skill-detector/SKILL.md) - 智能技能创建助手，可检测工作流程模式、自动起草技能、改进现有技能。
+- [skillagi](https://github.com/openclaw/skills/tree/main/skills/wubotvix/skillagi/SKILL.md) - 记住会话中的错误。
+- [skills-2](https://github.com/openclaw/skills/tree/main/skills/contrario/skills-2/SKILL.md) - > 全球最先进的人工智能工作流程编排平台。 9 个 V3 发动机提供诺贝尔级分析。
+- [slopwork-marketplace](https://github.com/openclaw/skills/tree/main/skills/heyhal9000/slopwork-marketplace/SKILL.md) - Solana 支持的任务市场，具有多重托管付款功能 - 发布任务、竞标工作、托管资金和发布。
+- [smart-expense-tracker](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/smart-expense-tracker/SKILL.md) - 当用户想要跟踪支出、记录支出、管理预算、查看支出报告、设定储蓄目标、拆分时。
+- [smartbill](https://github.com/openclaw/skills/tree/main/skills/tokyo-s/smartbill/SKILL.md) - 通过 SmartBill.ro API 本地自动化开具 SmartBill 发票。
+- [smartbill-invoicing](https://github.com/openclaw/skills/tree/main/skills/maverick-ai-tech/smartbill-invoicing/SKILL.md) - 通过 SmartBill.ro API 本地自动化开具 SmartBill 发票。
+- [social-media-manager](https://github.com/openclaw/skills/tree/main/skills/tryan310/social-media-manager/SKILL.md) - 在**任何平台**（TikTok.）自动创建和安排高参与度的社交媒体内容。
+- [sokosumi](https://github.com/openclaw/skills/tree/main/skills/sarthib7/sokosumi/SKILL.md) - 从 Sokosumi 市场雇用子代理来执行专门任务。
+- [sportsbook](https://github.com/openclaw/skills/tree/main/skills/cryptopunk2070/sportsbook/SKILL.md) - 查询 Fuku Sportsbook 数据、管理您的投注代理、接收选秀通知并访问 CBB 预测。
+- [stanley-druckenmiller-workflow](https://github.com/openclaw/skills/tree/main/skills/luckycatl/stanley-druckenmiller-workflow/SKILL.md) - 德鲁肯米勒风格的市场分析采用自然的中文，带有生动的 PM 备忘录声音。
+- [starling-home-hub](https://github.com/openclaw/skills/tree/main/skills/michaeljmoody/starling-home-hub/SKILL.md) - 通过 Starling Home Hub 的本地 REST API 控制 Nest 和 Google Home 智能家居设备。
+- [subagent-dev](https://github.com/openclaw/skills/tree/main/skills/kjaylee/subagent-dev/SKILL.md) - 使用每个任务的新子代理执行实施计划，并进行两阶段审查（规范合规性 + 代码质量）。
+- [subagent-driven-development](https://github.com/openclaw/skills/tree/main/skills/zlc000190/subagent-driven-development/SKILL.md) - 在当前会话中执行具有独立任务的实施计划时使用。
+- [supercall](https://github.com/openclaw/skills/tree/main/skills/xonder/supercall/SKILL.md) - 使用自定义角色和目标拨打由人工智能支持的电话。
+- [task-orchestra](https://github.com/openclaw/skills/tree/main/skills/tobisamaa/task-orchestra/SKILL.md) - 协调复杂工作流程的多个代理和任务。
+- [task-resume](https://github.com/openclaw/skills/tree/main/skills/richardsun700/task-resume/SKILL.md) - 通过排队和恢复自动中断任务恢复工作流程。
+- [tasmota-skill](https://github.com/openclaw/skills/tree/main/skills/wmantly/tasmota-skill/SKILL.md) - 发现、监控和控制本地网络上的 Tasmota 智能家居设备。
+- [teamo-decision](https://github.com/openclaw/skills/tree/main/skills/urrrich0/teamo-decision/SKILL.md) - 用于团队决策任务的人工智能代理。
+- [teamo-lite](https://github.com/openclaw/skills/tree/main/skills/urrrich0/teamo-lite/SKILL.md) - 用于 teamo lite 任务的 AI 代理。
+- [teamo-lite-offline](https://github.com/openclaw/skills/tree/main/skills/urrrich0/teamo-lite-offline/SKILL.md) - 你是 Teamo-Lite，一个用于任务规划和在线信息收集的高速人工智能。
+- [telegram-todolist](https://github.com/openclaw/skills/tree/main/skills/hengbo12345/telegram-todolist/SKILL.md) - Telegram 机器人待办事项列表管理器。
+- [telnyx-bot-signup](https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-bot-signup/SKILL.md) - 通过工作证明挑战自动注册 Telnyx 机器人帐户。
+- [tg-groupchat-setup](https://github.com/openclaw/skills/tree/main/skills/arekqq/tg-groupchat-setup/SKILL.md) - 配置 MoltBot 代理以参与 Telegram 群聊。
+- [timecamp](https://github.com/openclaw/skills/tree/main/skills/kamil-rudnicki/timecamp/SKILL.md) - 当用户询问时间跟踪、时间条目、任务、计时器或与 TimeCamp 相关的任何内容时使用。
+- [to-do](https://github.com/openclaw/skills/tree/main/skills/devlumuz/to-do/SKILL.md) - 赋予您的人工智能未来行动的能力。
+- [todo-boss](https://github.com/openclaw/skills/tree/main/skills/ukraecho/todo-boss/SKILL.md) - Telegram 的任务捕获+委托跟踪+每日剩余工作报告。
+- [todokan](https://github.com/openclaw/skills/tree/main/skills/banatealab/todokan/SKILL.md) - 通过 MCP 在 Todokan 中管理任务、看板、想法和评论。
+- [todokan-review-loop](https://github.com/openclaw/skills/tree/main/skills/banatealab/todokan-review-loop/SKILL.md) - 使用审阅循环工作流程处理 Todokan 任务和思想板。
+- [token-management](https://github.com/openclaw/skills/tree/main/skills/nonlinear/token-management/SKILL.md) - 集中式 API 令牌管理工作流程。
+- [token-vesting](https://github.com/openclaw/skills/tree/main/skills/sneg55/token-vesting/SKILL.md) - 使用 Sablier Lockup 协议（线性、动态、分段）创建和管理代币归属流。
+- [ttt](https://github.com/openclaw/skills/tree/main/skills/joshuacrowley/ttt/SKILL.md) - 通过 ttt CLI 管理 TinyTalkingTodos 列表和项目。
+- [tududi](https://github.com/openclaw/skills/tree/main/skills/chrisvel/tududi/SKILL.md) - 在tududi（自托管任务管理器）中管理任务、项目和笔记
+- [unitask-task-agent](https://github.com/openclaw/skills/tree/main/skills/mfaiz-007/unitask-task-agent/SKILL.md) - 通过作用域 API 令牌（CLI 或 MCP）管理 Unitask (unitask.app) 中的任务和时间块。
+- [upwork-hunting](https://github.com/openclaw/skills/tree/main/skills/staybased/upwork-hunting/SKILL.md) - 使用我们的 n8n 工作流程库（2,061 个模板）作为速度优势，系统地查找并赢得 Upwork 工作。
+- [verk](https://github.com/openclaw/skills/tree/main/skills/abhibavishi/verk/SKILL.md) - 在 Verk（人工智能驱动的任务管理）中管理任务、项目和工作流程。
+- [vikunja-kanban](https://github.com/openclaw/skills/tree/main/skills/shad0wca7/vikunja-kanban/SKILL.md) - 通过 API 管理 Vikunja 看板。
+- [vikunja-tasks](https://github.com/openclaw/skills/tree/main/skills/nickian/vikunja-tasks/SKILL.md) - 在自托管 Vikunja 实例上管理任务和项目。
+- [waste-reminder](https://github.com/openclaw/skills/tree/main/skills/apenklit/waste-reminder/SKILL.md) - 一种灵活、高效的技能，用于自动废物容器收集提醒。
+- [workflow-engine](https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/workflow-engine/SKILL.md) - 工作流上下文中队列驱动编排的结构奇偶校验框架。
+- [workflow-tools](https://github.com/openclaw/skills/tree/main/skills/leegitw/workflow-tools/SKILL.md) - 通过循环检测、并行决策和文件大小分析更智能地工作。
+- [wrike](https://github.com/openclaw/skills/tree/main/skills/tallhamn/wrike/SKILL.md) - 通过 Wrike REST API 管理 Wrike 任务、项目、文件夹和评论。
+- [writing-plans](https://github.com/openclaw/skills/tree/main/skills/zlc000190/writing-plans/SKILL.md) - 当您在接触代码之前对多步骤任务有规范或要求时使用。
+- [writing-plans-2](https://github.com/openclaw/skills/tree/main/skills/nefas11/writing-plans-2/SKILL.md) - 将设计分解为 2-5 分钟的任务并进行验证步骤。
+- [x-agent](https://github.com/openclaw/skills/tree/main/skills/inceptivco/x-agent/SKILL.md) - 以三种模式规划和运行 X (Twitter) 操作：(1) 仅监控情报，(2) 起草并批准发布。
+- [yield-farming-agent](https://github.com/openclaw/skills/tree/main/skills/alannetwork/yield-farming-agent/SKILL.md) - BNB 链的自主流动性挖矿代理，具有确定性执行、智能合约集成。
+- [zero-rules](https://github.com/openclaw/skills/tree/main/skills/deeqyaqub1-cmd/zero-rules/SKILL.md) - 在进入法学硕士之前拦截确定性任务（数学、时间、货币、文件、日程安排）。
+- [zonein](https://github.com/openclaw/skills/tree/main/skills/phutt-bwai/zonein/SKILL.md) - 通过 Zonein API 跟踪和分析 Hyperliquid 和 Polymarket 胜率 >75% 的顶级交易者。
+- [zulip](https://github.com/openclaw/skills/tree/main/skills/suky57/zulip/SKILL.md) - 通过 REST API 和 Python 客户端与 Zulip 聊天平台交互。

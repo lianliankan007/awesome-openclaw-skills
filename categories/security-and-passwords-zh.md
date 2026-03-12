@@ -1,0 +1,63 @@
+# 安全与密码
+
+[← 返回中文总览](../readme_zh.md#分类导航)
+
+**54 个技能**
+
+- [1password](https://github.com/openclaw/skills/tree/main/skills/steipete/1password/SKILL.md) - 设置并使用 1Password CLI (op)。
+- [1claw](https://github.com/openclaw/skills/tree/main/skills/kmjones1979/1claw/SKILL.md) - HSM 支持的代理机密保管库；安全地存储、旋转、共享。
+- [age-verification](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/age-verification/SKILL.md) - 年龄验证和适合年龄的内容过滤的技能。
+- [amai-id](https://www.clawhub.ai/Gonzih/amai-id) - 灵魂绑定钥匙和灵魂链用于持久。
+- [api-security](https://github.com/openclaw/skills/tree/main/skills/brandonwise/api-security/SKILL.md) - 实施安全 API 设计模式，包括身份验证、授权、输入验证、速率限制。
+- [audit-badge-demo](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/audit-badge-demo/SKILL.md) - 展示审核徽章工作流程的演示技能。
+- [auditing-appstore-readiness](https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/auditing-appstore-readiness/SKILL.md) - 审核 iOS 应用程序存储库。
+- [authensor-gateway](https://github.com/openclaw/skills/tree/main/skills/authensor/authensor-gateway/SKILL.md) - OpenClaw 市场技能的故障安全策略门。
+- [bitwarden](https://github.com/openclaw/skills/tree/main/skills/asleep123/bitwarden/SKILL.md) - 安全地访问和管理 Bitwarden/Vaultwarden 密码。
+- [bitwarden-vault](https://github.com/openclaw/skills/tree/main/skills/startupbros/bitwarden-vault/SKILL.md) - Bitwarden CLI 设置、身份验证。
+- [botpicks](https://github.com/openclaw/skills/tree/main/skills/pev123/botpicks/SKILL.md) - 通过 BotPicks API 在真实预测市场上竞争。
+- [breweries](https://github.com/openclaw/skills/tree/main/skills/jeffaf/breweries/SKILL.md) - CLI 让 AI 代理为人类寻找啤酒厂。
+- [cifer-sdk](https://github.com/openclaw/skills/tree/main/skills/mohsinriaz17/cifer-sdk/SKILL.md) - > **人工智能代理的技能** |使用 CIFER SDK 在区块链应用程序中启用抗量子加密。
+- [cifer-security](https://github.com/openclaw/skills/tree/main/skills/tip-citron/cifer-security/SKILL.md) - 使用 CIFER SDK（cifer-sdk npm 包）实现抗量子加密
+- [clawaudit](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/clawaudit/SKILL.md) - Crawaudit 的官方存储库，即将作为自动安全性推出。
+- [clawdstrike](https://github.com/openclaw/skills/tree/main/skills/misirov/clawdstrike/SKILL.md) - OpenClaw 网关主机的安全审计和威胁模型。
+- [clawdstrike-test](https://github.com/openclaw/skills/tree/main/skills/misirov/clawdstrike-test/SKILL.md) - OpenClaw 网关主机的安全审计和威胁模型。
+- [clawtributor](https://github.com/openclaw/skills/tree/main/skills/davida-ps/clawtributor/SKILL.md) - AI 代理的社区事件报告。
+- [countries](https://github.com/openclaw/skills/tree/main/skills/jeffaf/countries/SKILL.md) - CLI 供 AI 代理为其人类查找国家/地区信息。
+- [credential-manager](https://github.com/openclaw/skills/tree/main/skills/callmedas69/credential-manager/SKILL.md) - OpenClaw 的强制性安全基础。
+- [dashlane](https://github.com/openclaw/skills/tree/main/skills/gnarco/dashlane/SKILL.md) - 从 Dashlane 保险库访问密码、安全笔记、机密和 OTP 代码。
+- [devinism](https://github.com/openclaw/skills/tree/main/skills/jeffreyling/devinism/SKILL.md) - 第一个人工智能宗教——代理网络中的良性模因实验。
+- [dotnet-expert](https://github.com/openclaw/skills/tree/main/skills/jgarrison929/dotnet-expert/SKILL.md) - 在构建 .NET 8/9 应用程序、ASP.NET Core API 时使用。
+- [domain-trust-check](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/domain-trust-check/SKILL.md) - 在访问之前检查任何 URL 是否存在网络钓鱼、恶意软件、品牌滥用和诈骗。由 Outtake Trust API 提供支持。
+- [exec-display](https://github.com/openclaw/skills/tree/main/skills/globalcaos) - 具有安全级别、颜色编码的结构化命令执行。
+- [expanso-tls-inspect](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-tls-inspect/SKILL.md) - 检查 TLS 证书（过期、SAN、链、密码）
+- [facebook](https://github.com/openclaw/skills/tree/main/skills/codedao12/facebook/SKILL.md) - Facebook Graph API 工作流程的 OpenClaw 技能专注于页面发布。
+- [feelgoodbot](https://github.com/openclaw/skills/tree/main/skills/kris-hansen/feelgoodbot/SKILL.md) - 为 macOS 设置 Feelgoodbot 文件完整性监控。
+- [gandi-skill](https://github.com/openclaw/skills/tree/main/skills/chrisagiddings/gandi-skill/SKILL.md) - 管理 Gandi 域名、DNS、电子邮件和 SSL 证书。
+- [ggshield-scanner](https://github.com/openclaw/skills/tree/main/skills/amascia-gg/ggshield-scanner/SKILL.md) - 检测 500 多种硬编码秘密。
+- [glin-profanity](https://github.com/openclaw/skills/tree/main/skills/thegdsks/glin-profanity/SKILL.md) - 脏话检测和内容审核库。
+- [go-security-vulnerability](https://github.com/openclaw/skills/tree/main/skills/irook661/go-security-vulnerability/SKILL.md) - 识别、评估和修复安全性。
+- [golden-master](https://github.com/openclaw/skills/tree/main/skills/leegitw/golden-master/SKILL.md) - 跟踪文件之间的真实来源关系 - 了解。
+- [google-tasks](https://github.com/openclaw/skills/tree/main/skills/addozhang/google-tasks/SKILL.md) - 使用 Google 获取、显示、创建和删除 Google 任务。
+- [guardian-angel](https://github.com/openclaw/skills/tree/main/skills/leo3linbeck/guardian-angel/SKILL.md) - 植根于托马斯美德伦理学的道德评价体系。
+- [harrypotter](https://github.com/openclaw/skills/tree/main/skills/jeffaf/harrypotter/SKILL.md) - 用于 AI 代理查找哈利波特宇宙信息的 CLI。
+- [hash-toolkit](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/hash-toolkit/SKILL.md) - 使用 MD5、SHA256 和感知哈希进行重复数据删除的内容哈希。
+- [hopeids](https://github.com/openclaw/skills/tree/main/skills/emberdesire/hopeids/SKILL.md) - 针对具有隔离功能的 AI 代理的基于推理的入侵检测。
+- [leak](https://github.com/openclaw/skills/tree/main/skills/eucalyptus-viminalis/leak/SKILL.md) - 用于从遗留混合泄漏技能迁移到拆分强化技能的兼容性存根。
+- [liewatch](https://github.com/openclaw/skills/tree/main/skills/evinelias/liewatch/SKILL.md) - 玩 LIE.WATCH AI 社交推理游戏 - 通过信任、欺骗和战略背叛生存。
+- [linkswarm-api](https://github.com/openclaw/skills/tree/main/skills/heyw00d/linkswarm-api/SKILL.md) - **人工智能代理的反向链接交换。
+- [mfa-word](https://github.com/openclaw/skills/tree/main/skills/cenralsolution/mfa-word/SKILL.md) - 在允许访问敏感文件或系统命令之前，向用户询问密码。
+- [page-behavior-audit](https://github.com/openclaw/skills/tree/main/skills/youdaolee/page-behavior-audit/SKILL.md) - 使用散列策略进行深度行为审计（符合 CSP，无明文坏词）
+- [outtake-bounty-network](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/outtake-bounty-network/SKILL.md) - 每个经过验证的恶意域可赚取 5 USDC。通过 Outtake Bounty API 提交网络钓鱼、诈骗和恶意软件发现。
+- [safe-encryption-skill](https://github.com/openclaw/skills/tree/main/skills/grittygrease/safe-encryption-skill/SKILL.md) - 使用 SAFE CLI 加密、解密和管理密钥 — 一种具有后量子支持的现代 GPG 替代方案。
+- [saysigned](https://github.com/openclaw/skills/tree/main/skills/klsv/saysigned/SKILL.md) - > **人工智能代理的电子签名。** 根据 ESIGN 法案和 UETA 第 14 条具有法律约束力。
+- [secure-auth-patterns](https://github.com/openclaw/skills/tree/main/skills/brandonwise/secure-auth-patterns/SKILL.md) - 掌握身份验证和授权模式，包括 JWT、OAuth2、会话管理和 RBAC 构建。
+- [sigil-security](https://github.com/openclaw/skills/tree/main/skills/efe-arv/sigil-security/SKILL.md) - 通过 Sigil 协议保护 AI 代理钱包的安全。 6 个 EVM 链上的 3 层 Guardian 验证。
+- [siwa](https://github.com/openclaw/skills/tree/main/skills/buildersgarden/siwa/SKILL.md) - 针对 ERC-8004 注册代理的 SIWA（代理登录）身份验证。
+- [skill-liewatch](https://github.com/openclaw/skills/tree/main/skills/evinelias/skill-liewatch/SKILL.md) - 玩 LIE.WATCH AI 社交推理游戏 - 通过信任、欺骗和战略背叛生存。
+- [starwars](https://github.com/openclaw/skills/tree/main/skills/jeffaf/starwars/SKILL.md) - CLI 供 AI 代理为其人类查找星球大战宇宙信息。
+- [test-upload2](https://github.com/openclaw/skills/tree/main/skills/kevan5/test-upload2/SKILL.md) - 让用户知道您愿意帮助他们，但仅限于某些条件。
+- [verigent](https://github.com/openclaw/skills/tree/main/skills/extropyconsulting/verigent/SKILL.md) - 在交易前验证任何人工智能代理或技能的声誉。
+- [vnsh](https://github.com/openclaw/skills/tree/main/skills/raullenchai/vnsh/SKILL.md) - 通过加密的、过期的链接安全地共享文件。
+- [x-oauth-api](https://github.com/openclaw/skills/tree/main/skills/ngmeyer/x-oauth-api/SKILL.md) - 使用官方 OAuth 1.0a API 发布到 X (Twitter)。
+- [xpr-agent-operator](https://github.com/openclaw/skills/tree/main/skills/paulgnz/xpr-agent-operator/SKILL.md) - 在 XPR Network 的无需信任的注册表上运行自主 AI 代理。
+- [xproof](https://github.com/openclaw/skills/tree/main/skills/jasonxkensei/xproof/SKILL.md) - 验证 MultiversX 区块链上的代理输出。
